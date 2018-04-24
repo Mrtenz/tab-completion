@@ -1,6 +1,6 @@
 {
   "name": "tab-completion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple to use utility for tab completion.",
   "main": "lib/tabCompletion.node.js",
   "module": "lib/tabCompletion.js",
